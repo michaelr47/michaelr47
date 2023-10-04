@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Intermediate JS, will soon learn React and DSA!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/michaelr47](https://github.com/michaelr47)
+- 👨‍💻 All of my projects are available at: [https://github.com/michaelr47](https://github.com/michaelr47)
 
 - 💬 Ask me about **HTML5, CSS3, JS ES6+, Design/UI**
 
-- ⚡ Fun fact **I like to play video games**
+- ⚡ Fun fact: **I like to play video games 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
