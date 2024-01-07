@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelr47&label=Profile%20views&color=0e75b6&style=flat" alt="michaelr47" /> </p>
 
-- 🔭 I’m currently working on [FAQ Accordion Card](https://github.com/michaelr47/FAQ-AccordionCard)
+- 🔭 I’m currently working on [Blogr Landing Page](https://github.com/michaelr47/Blogr-LandingPage)
 
 - 🌱 I’m currently learning **Intermediate JS, will soon learn React and DSA!**
 
