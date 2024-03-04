@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelr47&label=Profile%20views&color=0e75b6&style=flat" alt="michaelr47" /> </p>
 
-- 🔭 I’m currently working on [Recipe Page](https://github.com/michaelr47/Recipe-Page)
+- 🔭 I’m currently working on [Job Listings](https://github.com/michaelr47/JobListings)
 
 - 🌱 I’m currently learning **Intermediate JS, will soon learn React and DSA!**
 
